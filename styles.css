@@ -1,0 +1,12 @@
+nav {
+    background-color: peachpuff;
+    color: orangered;
+    text-decoration: none;
+    text-align: center;
+    justify-content: space-between;
+    height: 50px;
+    display: flex;
+    padding: 10px;
+    font-family: arial;
+    font-size: 30px;
+}
