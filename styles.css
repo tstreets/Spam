@@ -29,6 +29,15 @@ a {
     font-family: fantasy;
     text-decoration: none;
 }
+.free{
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orange;
+}
+.free em{
+    background-color: orange;
+    color: purple;
+}
 .logo{
     background-position: center;
     background-repeat: no-repeat;
