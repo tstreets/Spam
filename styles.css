@@ -34,6 +34,7 @@ a {
     color: orangered;
     align-items: center;
     display: flex;
+    margin-left: 800px;
 }
 
 .free em {
@@ -47,4 +48,6 @@ img {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    height: 1000px;
+    margin-left: 450px;
 }
