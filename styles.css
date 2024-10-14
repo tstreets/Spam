@@ -1,12 +1,50 @@
+html, body {
+    height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    margin-bottom: 16px;
+}
+
+body {
+    background-color: purple;
+}
+
 nav {
-    background-color: peachpuff;
-    color: orangered;
-    text-decoration: none;
+    background-color: orange;
     text-align: center;
+    display: flex;
     justify-content: space-between;
     height: 50px;
     display: flex;
     padding: 10px;
     font-family: arial;
     font-size: 30px;
+}
+
+a {
+    color: purple;
+    font-family: fantasy;
+    text-decoration: none;
+}
+
+.free {
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orangered;
+    align-items: center;
+    display: flex;
+}
+
+.free em {
+    background-color: peachpuff;
+    color: rgb(239, 111, 168);
+    box-shadow: 5px 5px 3px 4px;
+}
+
+img {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
