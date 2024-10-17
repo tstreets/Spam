@@ -70,7 +70,7 @@ footer {
 
 h2 {
     font-family: Arial, Helvetica, sans-serif;
-    color: orangered;
+    color: rgb(255, 86, 24);
     font-size: 30px;
     align-items: center;
     display: flex;
@@ -101,7 +101,7 @@ h2 {
 }
 p {
     font-size: 25px;
-    color:rgb(255, 192, 190);
+    color:rgb(255, 220, 219);
     font-family: Arial, Helvetica, sans-serif;
     /*background-color: blue;*/
 }
