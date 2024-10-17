@@ -8,12 +8,12 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 body {
-    background-color: purple;
+    background-color: rgb(232, 140, 255);
     
 }
 
 nav {
-    background-color: orange;
+    background-color: rgb(249, 186, 92);
     text-align: center;
     display: flex;
     justify-content: space-between;
@@ -25,7 +25,7 @@ nav {
 }
 
 a {
-    color: purple;
+    color: rgb(57, 55, 58);
     font-family: fantasy;
     text-decoration: none;
 }
@@ -42,7 +42,7 @@ a {
 
 .free em {
     background-color: peachpuff;
-    color: rgb(239, 111, 168);
+    color: rgb(232, 140, 255);
     box-shadow: 5px 5px 3px 4px;
 }
 
@@ -59,10 +59,10 @@ img {
 }
 
 footer {
-    background-color: orange;
+    background-color:rgb(249, 186, 92);
     height: 50px;
     margin-top: 100px;
-    color: purple;
+    color: rgb(44, 36, 46);
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -92,6 +92,8 @@ h2 {
     display: flex;
    }
 .cont p {
+}
+p {
     font-size: 25px;
     color:rgb(255, 192, 190);
     font-family: Arial, Helvetica, sans-serif;
