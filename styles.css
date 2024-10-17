@@ -8,7 +8,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 body {
-    background-color: rgb(232, 140, 255);
+    background-color:  #e488d8;;
     
 }
 
@@ -42,7 +42,7 @@ a {
 
 .free em {
     background-color: peachpuff;
-    color: rgb(232, 140, 255);
+    color:  #e488d8;
     box-shadow: 5px 5px 3px 4px;
 }
 
@@ -103,4 +103,9 @@ p {
     color:rgb(255, 192, 190);
     font-family: Arial, Helvetica, sans-serif;
     background-color: blue;
+}
+
+#numbers {
+   margin:0 auto
+   background-color: #e488d8;
 }
