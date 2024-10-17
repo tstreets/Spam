@@ -25,7 +25,7 @@ nav {
 }
 
 a {
-    color: rgb(232, 140, 255);
+    color: rgb(57, 55, 58);
     font-family: fantasy;
     text-decoration: none;
 }
@@ -62,7 +62,7 @@ footer {
     background-color:rgb(249, 186, 92);
     height: 50px;
     margin-top: 100px;
-    color: rgb(232, 140, 255);
+    color: rgb(44, 36, 46);
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -97,7 +97,7 @@ h2 {
 .aboutbox h1{
     font-size: 70px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
+}
 p {
     font-size: 25px;
     color:rgb(255, 192, 190);
