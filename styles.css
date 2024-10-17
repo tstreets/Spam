@@ -1,5 +1,6 @@
 html, body {
     height: 100%;
+   
 }
 
 h1, h2, h3, h4, h5, h6, p {
@@ -7,11 +8,12 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 body {
-    background-color: purple;
+    background-color: rgb(232, 140, 255);
+    
 }
 
 nav {
-    background-color: orange;
+    background-color: rgb(249, 186, 92);
     text-align: center;
     display: flex;
     justify-content: space-between;
@@ -23,7 +25,7 @@ nav {
 }
 
 a {
-    color: purple;
+    color: rgb(57, 55, 58);
     font-family: fantasy;
     text-decoration: none;
 }
@@ -33,13 +35,14 @@ a {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: orangered;
     align-items: center;
+    justify-content: center;
     display: flex;
-    margin-left: 800px;
+    
 }
 
 .free em {
     background-color: peachpuff;
-    color: rgb(239, 111, 168);
+    color: rgb(232, 140, 255);
     box-shadow: 5px 5px 3px 4px;
 }
 
@@ -51,14 +54,16 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 100%;
+    
 }
 
 footer {
-    background-color: orange;
+    background-color:rgb(249, 186, 92);
     height: 50px;
     width: cover;
     margin-top: 100px;
-    color: purple;
+    color: rgb(44, 36, 46);
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -80,7 +85,20 @@ h2 {
     justify-content: center;
     padding: 50px;
 }
-
+.aboutbox{
+    background-color: orangered;
+    height: 600px;
+    width: 1000px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 70px;
+    margin: auto;
+}
+.aboutbox h1{
+    font-size: 70px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 p {
     font-size: 25px;
     color:rgb(255, 192, 190);
