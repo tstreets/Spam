@@ -84,21 +84,14 @@ h2 {
     justify-content: center;
     padding: 50px;
 }
-.aboutbox{
-    background-color: orangered;
-    height: 600px;
-    width: 1000px;
-    align-items: center;
-    justify-content: center;
-    display: flex;
-    padding: 70px;
-    margin: auto;
-}
+
+
 .aboutbox h1{
     font-size: 70px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
-p {
+    display: flex;
+   }
+.cont p {
     font-size: 25px;
     color:rgb(255, 192, 190);
     font-family: Arial, Helvetica, sans-serif;
