@@ -100,6 +100,7 @@ p {
     /*background-color: blue;*/
 }
 .sunset {
+    margin: auto;
     background-color: pink;
     height: 500px;
     background: linear-gradient(to right, peachpuff, rgb(255, 111, 0), purple);
@@ -117,14 +118,9 @@ p {
     display: flex;
     justify-content: center;
     font-family: fantasy;
+    border: solid 5px black;
 }
-.testing {
-    height: 400px;
-    width: cover;
-    background-color: green;
-    display: flex;
-    align-items: center;
-}
+
 
 
 .aboutus p {
