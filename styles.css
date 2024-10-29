@@ -122,3 +122,21 @@ p {
     align-items: center;
 }
 
+
+.aboutus p {
+background-color: #3d1a47;
+    justify-content: center;
+    height: 200px;
+    align-items: center;
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cont p {
+    background-color: #3d1a47;
+        justify-content: center;
+        height: 200px;
+        align-items: center;
+        display: flex;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
