@@ -103,6 +103,7 @@ p {
     background-color: pink;
     height: 500px;
     background: linear-gradient(to right, peachpuff, rgb(255, 111, 0), purple);
+    margin-top: 20px;
 }
 
 .history p {
@@ -112,14 +113,6 @@ p {
     align-items: center;
     display: flex;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-.testing {
-    height: 400px;
-    width: cover;
-    background-color: green;
-    display: flex;
-    align-items: center;
 }
 
 
