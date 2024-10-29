@@ -8,11 +8,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 body {
-<<<<<<< HEAD
-    background-color:  #e488d8;;
-=======
     background-color: #b959ac;
->>>>>>> a0bdec757e11001e9cf0511559a9c5dccba96e0d
     
 }
 
@@ -96,12 +92,29 @@ h2 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     display: flex;
    }
-.cont p {
-}
+
 p {
     font-size: 25px;
     color:rgb(255, 192, 190);
     font-family: Arial, Helvetica, sans-serif;
     background-color: blue;
 }
+.sunset {
+    background-color: pink;
+    height: 500px;
+    background: linear-gradient(to right, peachpuff, rgb(255, 111, 0), purple);
+}
 
+.layers p {
+    background-color: #3d1a47;
+    justify-content: center;
+    height: 200px;
+    align-items: center;
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.artists h1{
+    display: flex;
+    justify-content: center;
+    font-family: fantasy;
+}
