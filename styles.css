@@ -100,6 +100,7 @@ p {
     /*background-color: blue;*/
 }
 .sunset {
+    margin: auto;
     background-color: pink;
     height: 500px;
     background: linear-gradient(to right, peachpuff, rgb(255, 111, 0), purple);
@@ -123,6 +124,12 @@ p {
     align-items: center;
 }
 
+.artists h1{
+    display: flex;
+    justify-content: center;
+    font-family: fantasy;
+    border: solid 5px black;
+}
 
 .aboutus p {
 background-color: #3d1a47;
