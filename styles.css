@@ -92,13 +92,13 @@ h2 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     display: flex;
    }
+
 p {
     font-size: 25px;
     color:rgb(255, 220, 219);
     font-family: Arial, Helvetica, sans-serif;
     /*background-color: blue;*/
 }
-
 .sunset {
     background-color: pink;
     height: 500px;
@@ -106,13 +106,21 @@ p {
     margin-top: 20px;
 }
 
-.history p {
+.layers p {
     background-color: #3d1a47;
     justify-content: center;
     height: 200px;
     align-items: center;
     display: flex;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.testing {
+    height: 400px;
+    width: cover;
+    background-color: green;
+    display: flex;
+    align-items: center;
 }
 
 
