@@ -24,6 +24,11 @@ nav {
     font-size: 30px;
 }
 
+.box{
+    height: 20px;
+    background-color: red;
+}
+
 a {
     color: rgb(57, 55, 58);
     font-family: fantasy;
@@ -116,6 +121,9 @@ p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
 }
+.artists{
+    
+}
 .artists a{
     display: flex;
     justify-content: center;
@@ -127,7 +135,8 @@ p {
 }
 .artists img{
     height: 250px;
-    margin-right: auto;
+    margin: 50px;
+
     
 }
 
