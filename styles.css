@@ -91,6 +91,7 @@ h2 {
     font-size: 70px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     display: flex;
+    
    }
 
 p {
@@ -114,7 +115,9 @@ p {
     align-items: center;
     display: flex;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
 }
+
 
 .testing {
     height: 400px;
@@ -124,12 +127,22 @@ p {
     align-items: center;
 }
 
-.artists h1{
+.artists h1, .artists a{
+
     display: flex;
     justify-content: center;
     font-family: fantasy;
+    height: 50px;
+    color: black;
     border: solid 5px black;
+    
 }
+.artists img{
+    height: 250px;
+    margin-right: auto;
+    
+}
+
 
 .aboutus p {
 background-color: #3d1a47;
