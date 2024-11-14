@@ -110,6 +110,7 @@ p {
     background-color: pink;
     height: 500px;
     background: linear-gradient(to right, peachpuff, rgb(255, 111, 0), purple);
+    margin-top: 20px;
 }
 
 .layers p {
@@ -125,6 +126,18 @@ p {
     
 }
 .artists a{
+
+}
+.testing {
+    height: 400px;
+    width: cover;
+    background-color: green;
+    display: flex;
+    align-items: center;
+}
+
+.artists h1, .artists a{
+
     display: flex;
     justify-content: center;
     font-family: fantasy;
