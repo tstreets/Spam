@@ -152,6 +152,10 @@ p {
 
     
 }
+.artistsect{
+   display: flex;
+   justify-content: sp;
+}
 
 
 .aboutus p {
