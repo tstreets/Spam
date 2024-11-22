@@ -154,9 +154,20 @@ p {
 }
 .artistsect{
    display: flex;
-   justify-content: sp;
+   background-color: orange;
+  
 }
-
+.arti{
+    margin-top: 100px;
+}
+.arti audio {
+    margin-left: -20px
+    
+}
+.arti2{
+    margin-top: 100px;
+    margin-left: 20px;
+}
 
 .aboutus p {
 background-color: #3d1a47;
