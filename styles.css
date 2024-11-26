@@ -126,7 +126,18 @@ p {
     
 }
 .artists a{
+    height: 40px;
 
+}
+.arti p{
+    color: #722787;
+    width: 500px;
+}
+.arti{
+    height: 110px;
+}
+.arti2{
+    height: 110px
 }
 .testing {
     height: 400px;
@@ -159,7 +170,11 @@ p {
 }
 .arti{
     margin-top: 100px;
+    vertical-align: top;
+    
+    
 }
+
 .arti audio {
     margin-left: -20px
     
