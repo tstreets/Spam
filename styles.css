@@ -152,7 +152,7 @@ p {
     display: flex;
     justify-content: center;
     font-family: fantasy;
-    height: 50px;
+    font-size: 30px;
     color: black;
     border: solid 5px black;
     
