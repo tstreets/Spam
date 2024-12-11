@@ -24,6 +24,11 @@ nav {
     font-size: 30px;
 }
 
+.box{
+    height: 20px;
+    background-color: red;
+}
+
 a {
     color: rgb(57, 55, 58);
     font-family: fantasy;
@@ -91,6 +96,7 @@ h2 {
     font-size: 70px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     display: flex;
+    
    }
 
 p {
@@ -104,6 +110,7 @@ p {
     background-color: pink;
     height: 500px;
     background: linear-gradient(to right, peachpuff, rgb(255, 111, 0), purple);
+    margin-top: 20px;
 }
 
 .layers p {
@@ -113,15 +120,69 @@ p {
     align-items: center;
     display: flex;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
 }
-.artists h1{
+.artists{
+    
+}
+.artists a{
+    height: 40px;
+
+}
+.arti p{
+    color: #722787;
+    width: 500px;
+}
+.arti{
+    height: 110px;
+}
+.arti2{
+    height: 110px
+}
+.testing {
+    height: 400px;
+    width: cover;
+    background-color: green;
+    display: flex;
+    align-items: center;
+}
+
+.artists h1, .artists a{
+
     display: flex;
     justify-content: center;
     font-family: fantasy;
+    font-size: 30px;
+    color: black;
     border: solid 5px black;
+    
+}
+.artists img{
+    height: 250px;
+    margin: 50px;
+
+    
+}
+.artistsect{
+   display: flex;
+   background-color: orange;
+  
+}
+.arti{
+    margin-top: 100px;
+    vertical-align: top;
+    
+    
 }
 
-
+.arti audio {
+    margin-left: -20px
+    
+}
+.arti2{
+    margin-top: 100px;
+    margin-left: 20px;
+}
 
 .aboutus p {
 background-color: #3d1a47;
